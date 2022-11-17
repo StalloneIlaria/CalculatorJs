@@ -2,7 +2,7 @@
 
 Calculator project Javascript
 
-# Link to project 
+# Link to project https://stalloneilaria.github.io/CalculatorJs/
 
 # Screenshot
 
