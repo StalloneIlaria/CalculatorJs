@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css2?family=Prompt&family=Righteous&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    outline: rgb(0, 128, 2);
+    box-sizing: border-box;
+}
+h1{
+    padding-top: 20px;
+    color: #F34C50;
+}
+.container{
+    display: flex;
+    min-height: 100vh;
+    font-family: 'Righteous';
+    text-align: center;
+    justify-content: center;
+    background: linear-gradient(to right, #F34C50, #3AA7A0 );
+    align-items: center;
+}
+.calculator{ 
+    width: 350px;
+    background-color: #9FD9D0;
+    border-radius: 10px;
+}
+
+input[type='text']{
+    height: 60px;
+    width: 280px;
+    margin-top: 40px;
+    border-radius: 2px;
+    border: 2px solid #F34C50;
+    color: #fff;
+    font-size: 25px;
+    font-weight: bold;
+    text-align: right;
+    padding-right: 20px;
+    background-color: #F7C9C0;
+}
+
+form .button{
+    width: 300px;
+    margin: 10px 25px 0 25px;
+    padding:20px 0px 20px 0px;
+}
+
+input[type='button']{
+    width: 60px;
+    height: 55px;
+    margin: 3px;
+    font-size: 20px;
+    line-height: 40px;
+    border-radius: 3px;
+    border: 1px solid #F34C50;
+    background-color: #F7C9C0;
+    color: #fff;
+    cursor: pointer;
+}
+input[type='button']:hover{
+    background-color: #fff;
+    color: #F7C9C0;
+
+}
+
+input#equal{
+  
+    width: 270px;
+    font-size: 25px;
+}
