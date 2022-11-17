@@ -2,8 +2,8 @@
 
 Calculator project Javascript
 
-# Link to project https://stalloneilaria.github.io/CalculatorJs/
-
+# Link 
+Link to project https://stalloneilaria.github.io/CalculatorJs/
 # Screenshot
 
 <img width= 250 alt="Screenshot 2022-11-17 alle 09 02 09" src="https://user-images.githubusercontent.com/100319112/202520785-9225134b-0351-473e-9218-ead682434226.png">
